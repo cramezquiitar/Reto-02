@@ -2,7 +2,7 @@
 
 Ejercicio: Hola mundo. Programaciion. Universidad Nacional de Colombia
 
-El codigo es el siguiente(Briindado por el profesor):
+El codigo es el siguiente(Brindado por el profesor):
 
 ~~~
 if __name__ == "__main__" :
