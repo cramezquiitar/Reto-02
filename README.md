@@ -1,6 +1,6 @@
 # Reto-02
 
-Ejercicio: Hola mundo. Programaciion. Universidad Nacional de Colombia
+Ejercicio: Hola mundo. Programacion. Universidad Nacional de Colombia
 
 El codigo es el siguiente(Brindado por el profesor):
 
